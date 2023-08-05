@@ -1,6 +1,6 @@
 This project is aimed to analyze the sales data of the Diwali festival.
 
-  <p align="center">
+  <p align="left">
   <img src="https://github.com/Neel1611/Diwali-sales-analysis/assets/83344371/0a14deff-b374-4072-8e1a-941632fd025a" width="350" alt="accessibility text">
 </p>
 
